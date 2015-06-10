@@ -1,0 +1,9 @@
+spring:
+    profiles: development
+server:
+    address: 127.0.0.1
+
+environments:
+    dev:
+        url: http://dev.bar.com
+        name: Developer Setup

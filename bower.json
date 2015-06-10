@@ -1,0 +1,22 @@
+{
+  "name": "parking_gt",
+  "version": "0.0.1",
+  "authors": [
+    "Felipe Yanagiya <felipey@ciandt.com>"
+  ],
+  "dependencies" : {
+    "jquery" : ">= 2.1.4",
+    "lodash" : "3.9.3",
+    "backbone": "1.2.1",
+    "materialize" : "0.93.1"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/webapp",
+    "test",
+    "tests"
+  ]
+}
